@@ -1,0 +1,79 @@
+================================================================================
+                         SMART RECORDS SYSTEM REPORT
+================================================================================
+
+SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Employees: 24
+Total Departments: 10
+Average Salary: $79,812.50
+Minimum Salary: $3,500.00
+Maximum Salary: $150,000.00
+Total Salary Budget: $1,915,500.00
+
+================================================================================
+
+DEPARTMENT-WISE EMPLOYEE COUNT
+--------------------------------------------------------------------------------
+Customer Service: 2 employee(s)
+Executive Management: 2 employee(s)
+Finance: 3 employee(s)
+Human Resources: 4 employee(s)
+Information Technology: 2 employee(s)
+Marketing: 2 employee(s)
+Operations: 1 employee(s)
+Quality Assurance: 2 employee(s)
+Research & Development: 2 employee(s)
+Sales: 4 employee(s)
+
+================================================================================
+
+EMPLOYEE LISTING
+--------------------------------------------------------------------------------
+ID    Name                      Email                     Position        Salary       Department     
+--------------------------------------------------------------------------------
+15    Salem Abdullah            salem.abdullah@company.com Accountant      $68000.00    Finance        
+5     Youssef Abdullah          youssef.abdullah@company.com Financial Analyst $75000.00    Finance        
+25    Jameel Abu-Baker          jameel@gmail.com          CEO             $150000.00   Executive Management
+23    Mona Ahmed                mona.ahmed@company.com    Development Specialist $76000.00    Research & Development
+13    Mustafa Ahmed             mustafa.ahmed@company.com Development     $3500.00     Human Resources
+9     Abdulrahman Ali           abdulrahman.ali@company.com Operations Manager $95000.00    Operations     
+2     Fatima Ali                fatima.ali@company.com    Software Engineer $90000.00    Information Technology
+16    Nasser Ali                nasser.ali@company.com    Senior Sales Representative $72000.00    Sales          
+3     Khalid Hassan             khalid.hassan@company.com Sales Representative $65000.00    Sales          
+17    Reem Hassan               reem.hassan@company.com   HR Specialist   $64000.00    Human Resources
+21    Lina Hussein              lina.hussein@company.com  Senior Financial Analyst $80000.00    Finance        
+11    Tariq Hussein             tariq.hussein@company.com Development Engineer $88000.00    Research & Development
+4     Mariam Ibrahim            mariam.ibrahim@company.com Marketing Specialist $70000.00    Marketing      
+18    Waleed Ibrahim            waleed.ibrahim@company.com Quality Manager $89000.00    Quality Assurance
+24    Faisal Khalid             faisal.khalid@company.com Regional Sales Manager $98000.00    Sales          
+14    Hind Khalid               hind.khalid@company.com   Marketing Manager $92000.00    Marketing      
+19    Dana Mahmoud              dana.mahmoud@company.com  Service Manager $78000.00    Customer Service
+7     Omar Mahmoud              omar.mahmoud@company.com  Sales Manager   $85000.00    Sales          
+1     Ahmed Mohammed            ahmed.mohammed@company.com HR Manager      $85000.00    Human Resources
+10    Layla Mohammed            layla.mohammed@company.com Quality Specialist $72000.00    Quality Assurance
+22    Abdullah Omar             abdullah.omar@company.com Executive Manager $120000.00   Executive Management
+12    Zeinab Omar               zeinab.omar@company.com   Customer Service Specialist $58000.00    Customer Service
+20    Badr Saeed                badr.saeed@company.com    Software Engineer $82000.00    Information Technology
+8     Nora Saeed                nora.saeed@company.com    HR Coordinator  $60000.00    Human Resources
+
+================================================================================
+
+DEPARTMENT LISTING
+--------------------------------------------------------------------------------
+ID    Name                           Description                             
+--------------------------------------------------------------------------------
+9     Customer Service               Customer support and service management 
+10    Executive Management           Executive leadership and strategic plann
+5     Finance                        Handles accounting, budgeting, and finan
+1     Human Resources                Manages employee relations, recruitment,
+2     Information Technology         Handles software development, infrastruc
+4     Marketing                      Manages brand promotion, advertising, an
+6     Operations                     Manages daily operations and services   
+7     Quality Assurance              Ensures quality standards and compliance
+8     Research & Development         Product development and innovation      
+3     Sales                          Responsible for customer acquisition and
+
+================================================================================
+Report generated on: 2026-01-15 20:12:44
+================================================================================
